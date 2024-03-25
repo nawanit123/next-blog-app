@@ -1,0 +1,19 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+   
+.postList {
+    list-style: none;
+    padding: 0;
+}
+
+.postList li {
+    margin-bottom: 20px;
+}
+
+.postList a {
+    text-decoration: none;
+    color: #0070f3;
+}
